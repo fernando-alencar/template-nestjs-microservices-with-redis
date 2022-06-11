@@ -1,0 +1,5 @@
+class ReverseDto {
+
+    value: string
+
+}
