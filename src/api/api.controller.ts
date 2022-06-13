@@ -7,7 +7,6 @@ export class ApiController {
 
   @Get("/sum")
   async sum() {
-    console.log('teste')
     const number1 = Math.random()
     const number2 = Math.random()
     const payload = {
